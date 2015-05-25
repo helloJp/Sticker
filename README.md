@@ -1,5 +1,5 @@
 #Sticker
-![Sticker art]()
+![Sticker art](https://github.com/helloJp/Sticker/blob/master/art/sticker.gif)
 
 1.change **StickerView**'s two fields to decide ***MAX*** or ***MIN*** scale size
 
